@@ -1,0 +1,10 @@
+asgiref==3.8.1
+Django==4.2
+django-cors-headers==4.3.1
+django-rest-framework==0.1.0
+djangorestframework==3.15.1
+Markdown==3.6
+psycopg==3.1.18
+python-decouple==3.8
+sqlparse==0.4.4
+typing_extensions==4.10.0
