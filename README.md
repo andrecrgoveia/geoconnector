@@ -22,7 +22,7 @@ The GeoConnector API is a service that manages geospatial information, allowing 
 - Docker Compose
 
 ## Database relations
-![Database relations](https://raw.githubusercontent.com/andrecrgoveia/geoconnecor-api/media/db_relations.png)
+![Database relations](https://raw.githubusercontent.com/andrecrgoveia/geoconnecor-api/master/media/db_relations.png)
 
 
 ## How to run the project?
